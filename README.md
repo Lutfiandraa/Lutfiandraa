@@ -5,7 +5,7 @@
 <p align="center">
   <b>💻 Software Engineer | Data & AI Engineer Enthusiast 🧠</b><br><br>
   <b>🤝 Open to Work, Business Collaboration and Freelance 🤝</b><br>
-  Backend Developer | Tech Enthusiast 🚀
+  Fullstack Developer | Tech Enthusiast 🚀
 </p>
 
 <p align="center">
