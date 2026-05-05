@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>💻 Software Engineer | AI Engineer Enthusiast 🧠</b><br><br>
+  <b>💻 Software Engineer | Data & AI Engineer Enthusiast 🧠</b><br><br>
   <b>🤝 Open to Work, Business Collaboration and Freelance 🤝</b><br>
   Backend Developer | Tech Enthusiast 🚀
 </p>
