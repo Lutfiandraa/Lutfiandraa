@@ -44,9 +44,9 @@
 
 # My Statistic
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lutfiandraa&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-lutfiandra.vercel.app/api?username=Lutfiandraa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfiandraa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github/api/top-langs/?username=Lutfiandraa&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NAMA_GITHUB&theme=tokyonight&hide_border=true)
 
