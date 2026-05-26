@@ -40,3 +40,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
+<div align="center">
+
+# Statistic
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAMA_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NAMA_GITHUB&theme=tokyonight&hide_border=true)
+
+</div>
