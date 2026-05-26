@@ -40,14 +40,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
+
 <div align="center">
 
-# My Statistic
+# Statistic
 
-![GitHub Stats](https://github-readme-lutfiandra.vercel.app/api?username=Lutfiandraa&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180" src="https://streak-stats.demolab.com?user=Lutfiandraa&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lutfiandraa&theme=tokyonight" />
 
-![Top Languages](https://github/api/top-langs/?username=Lutfiandraa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NAMA_GITHUB&theme=tokyonight&hide_border=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lutfiandraa&theme=tokyo-night&hide_border=true" />
 
 </div>
