@@ -80,24 +80,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </p>
 
----
-
-## Experience
-
-### [Jabatan] — [Nama Perusahaan]
-
-`[Bulan Tahun] – [Bulan Tahun / Sekarang]`
-
-[Deskripsi singkat peran dan tanggung jawab]
-
-**Scope of work:**
-- [Poin tanggung jawab 1]
-- [Poin tanggung jawab 2]
-- [Poin tanggung jawab 3]
-
-`[Tech1]` `[Tech2]` `[Tech3]`
-
----
 
 ## GitHub Analytics
 
