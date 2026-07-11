@@ -36,18 +36,6 @@
 
 <br/>
 
----
-
-## About
-
-Saya adalah **Fullstack Developer** dan **Data & AI Engineer Enthusiast** yang senang membangun aplikasi dari ujung ke ujung — mulai dari antarmuka pengguna, backend, hingga eksplorasi data dan model AI.
-
-Terbuka untuk **pekerjaan penuh waktu, kolaborasi bisnis, dan proyek freelance**. Saya percaya pada prinsip *Learn. Build. Improve. Repeat.* — terus belajar teknologi baru sambil membangun sesuatu yang nyata.
-
-**Open to:** Full-time Roles · Freelance Projects · Business Collaboration
-
----
-
 ## Tech Stack
 
 ### Frontend
@@ -81,48 +69,15 @@ Terbuka untuk **pekerjaan penuh waktu, kolaborasi bisnis, dan proyek freelance**
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
----
+### Editing
 
-## Featured Projects
-
-<details>
-<summary><b>[Nama Proyek 1]</b></summary>
-
-<br/>
-
-> [Deskripsi singkat proyek — 1 kalimat]
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | [Tech stack yang dipakai] |
-| **Highlight** | [Fitur/hasil utama, misal: performa, skala, dsb.] |
-| **Repository** | [Link GitHub repo] |
-
-**What it does:** [Penjelasan 2-3 kalimat tentang fungsi proyek]
-
-</details>
-
-<details>
-<summary><b>[Nama Proyek 2]</b></summary>
-
-<br/>
-
-> [Deskripsi singkat proyek — 1 kalimat]
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | [Tech stack yang dipakai] |
-| **Highlight** | [Fitur/hasil utama] |
-| **Repository** | [Link GitHub repo] |
-
-**What it does:** [Penjelasan 2-3 kalimat tentang fungsi proyek]
-
-</details>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -140,19 +95,6 @@ Terbuka untuk **pekerjaan penuh waktu, kolaborasi bisnis, dan proyek freelance**
 - [Poin tanggung jawab 3]
 
 `[Tech1]` `[Tech2]` `[Tech3]`
-
----
-
-## Achievements & Certifications
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| [Nama achievement] | [Detail singkat] |
-| [Nama sertifikasi] | [Penerbit / tahun] |
-
-</div>
 
 ---
 
@@ -175,17 +117,17 @@ Terbuka untuk **pekerjaan penuh waktu, kolaborasi bisnis, dan proyek freelance**
 
 ```yaml
 Learning:
-  - [Skill/topik yang sedang dipelajari]
+  - Fullstack Development & AI Engineering
 
 Building:
-  - [Proyek/produk yang sedang dibangun]
+  - Integrating AI to real-world solution
 
 Exploring:
-  - [Bidang yang sedang dieksplorasi]
+  - Website, Data and GIS
 
 Open To:
-  - Full-time Software Engineering roles
-  - Freelance & business collaboration
+  - Full-time AI Engineer
+  - Mega Project or Business collaboration
 ```
 
 ---
